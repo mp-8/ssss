@@ -457,10 +457,16 @@ game.Players.LocalPlayer:Kick("VAL UNBAN SCRIPT IS NOT WORKING PLEASE JOIN OUR D
     end
 end)
 
+
+
 Main:NewButton("Vortex!", "not my script. other scripts are mine v2#0001", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
 end)
 
 Main:NewTextBox("discord!", "this was made by v2.!", function(txt)
 
+end)
+
+Main:NewButton("Target OP!", "not my script. other scripts are mine v2#0001", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-VictimMenu-Script/main/Dh%20VictimMenu%3A%20Script"))()
 end)
